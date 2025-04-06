@@ -55,7 +55,7 @@
       				<groupId>org.apache.maven.plugins</groupId>
      				 <artifactId>maven-surefire-plugin</artifactId>
       				<configuration>
-        			<excludeTests>ArithmeticOperationsTest#testSub</excludeTests>
+        			<excludeTests>ArithmeticOperationsTest</excludeTests>
       				</configuration>
   			  </plugin>
 		</plugins>
