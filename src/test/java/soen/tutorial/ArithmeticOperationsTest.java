@@ -17,6 +17,11 @@ public class ArithmeticOperationsTest {
 		assertEquals(expected, actual);
 
 	}
+	@Test
+	public Integer multiply(int a, int b) {
+    return a * b;
+}
+
     /*@Test
     public void testSub()
     {
